@@ -248,5 +248,17 @@ Un formato CSV (Comma-Separated Values, en inglés "valores separados por comas"
   - DataFrame es la estructura de datos principal de Pandas, representando datos en formato tabular (filas y columnas).
   - El formato tabular es muy común en análisis de datos, y Pandas facilita trabajar con estos datos de forma eficiente.
 
+# ¿Cómo Instalar Pandas con pip?
+
+Para instalar la librería **Pandas** en tu entorno de Python, puedes usar el gestor de paquetes **pip**. Aquí te explico cómo hacerlo paso a paso.
+
+## Paso 1: Verificar si pip está instalado
+
+Primero, asegúrate de que **pip** esté instalado en tu sistema. Abre la terminal o línea de comandos y escribe:
+
+```bash
+pip --version
+
+
 
 
